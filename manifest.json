@@ -1,22 +1,8 @@
 {
   "name": "Mis plugins en español",
   "version": "1.0.0",
-  "description": "AnimeJara (anime Latino/Japonés) y AllCalidad (películas y series Latino/Castellano/Subtitulado)",
+  "description": "A",
   "scrapers": [
-    {
-      "id": "animejara",
-      "name": "AnimeJara",
-      "description": "Anime en Latino y Japonés (sub) desde animejara.com. Servidores: Streamtape, MP4Upload, StreamHG, VOE, Vidhide, Lulustream, Uqload, YourUpload y Okru.",
-      "version": "1.4.1",
-      "author": "",
-      "supportedTypes": ["tv"],
-      "filename": "providers/animejara.js",
-      "enabled": true,
-      "formats": ["m3u8", "mp4"],
-      "contentLanguage": ["es"],
-      "supportedPlatforms": ["ios", "android"],
-      "limited": false
-    },
     {
       "id": "allcalidad",
       "name": "AllCalidad",
