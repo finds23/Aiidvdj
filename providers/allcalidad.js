@@ -49,7 +49,7 @@ var DESCARTADOS = /sbcom|lvturbo|vanfem|fembed|1fichier|fireload/i;
 var SHOW_STATUS = true;
 // Mientras se prueba el plugin: agrega al panel los pasos internos cuando algo falla o no hay resultados.
 // Poner en false cuando todo funcione.
-var DEBUG = true;
+var DEBUG = false;
 var TRACE = [];
 var ESTADO = {};
 var ORDEN_ESTADO = [];
